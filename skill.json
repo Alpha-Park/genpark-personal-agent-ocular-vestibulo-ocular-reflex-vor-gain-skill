@@ -1,0 +1,22 @@
+{
+  "name": "genpark-personal-agent-ocular-vestibulo-ocular-reflex-vor-gain-skill",
+  "version": "1.0.0",
+  "description": "Deterministic personal agent skill for evaluating Vestibulo-Ocular Reflex (VOR) gain, bilateral semicircular canal asymmetry, corrective catch-up saccades, and gaze stabilization.",
+  "author": "GenPark Autonomous Agents Ecosystem",
+  "license": "MIT",
+  "tags": [
+    "personal-agent",
+    "ai-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "model-context-protocol",
+    "python",
+    "zero-dependency",
+    "wellness",
+    "productivity",
+    "production-ready"
+  ],
+  "entrypoint": "mcp_server.py"
+}
